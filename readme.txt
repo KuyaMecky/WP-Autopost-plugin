@@ -1,6 +1,6 @@
 ===== Social Auto Poster =====
 Author: Michael Tallada
-Donate link: https://Michael Tallada/
+Donate link: https://github.com/KuyaMecky/
 Requires at least: 3.4
 Tested up to: 6.5.2
 Tags: facebook, autopost, social, poster, blogpost
