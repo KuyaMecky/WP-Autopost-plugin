@@ -7,7 +7,7 @@ Tags: facebook, autopost, social, poster, blogpost
 
 Social Auto Poster lets you automatically post all your content to several different social networks.
 
-See https://docs.Michael Tallada/documents/social-auto-poster/ for full documentation.
+See https://github.com/KuyaMecky/WP-Autopost-plugin/ for full documentation.
 
 == Installation Steps == 
 
