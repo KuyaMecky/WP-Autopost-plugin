@@ -1,0 +1,44 @@
+<wpml-config>   
+    <admin-texts>
+    	<key name="wpw_auto_poster_options">
+			<key name="fb_global_message_template" />
+			<key name="fb_global_message_template_*" />
+			<key name="tw_custom_tweet_template" />
+			<key name="tw_global_message_template_*" />
+			<key name="li_global_message_template" />
+			<key name="li_global_message_template_*" />
+			<key name="tb_global_message_template" />
+			<key name="tb_global_message_template_*" />
+			<key name="yt_template" />
+			<key name="yt_template_*" />
+			<key name="pin_custom_template" />
+			<key name="pin_custom_template_*" />
+		</key>
+    </admin-texts>
+    <custom-fields>
+		<custom-field action="copy">_wpweb_fb_user_id</custom-field>
+		<custom-field action="copy">_wpweb_fb_posting_method</custom-field>
+		<custom-field action="copy">_wpweb_fb_share_posting_type</custom-field>
+		<custom-field action="translate">_wpweb_fb_custom_title</custom-field>
+		<custom-field action="copy">_wpweb_tw_user_id</custom-field>
+		<custom-field action="copy">_wpweb_tw_image</custom-field>
+		<custom-field action="translate">_wpweb_tw_template</custom-field>
+		<custom-field action="copy">_wpweb_li_post_title</custom-field>
+		<custom-field action="copy">_wpweb_li_post_profile</custom-field>
+		<custom-field action="copy">_wpweb_li_post_link</custom-field>
+		<custom-field action="translate">_wpweb_li_post_comment</custom-field>
+		<custom-field action="copy">_wpweb_tb_posting_type</custom-field>
+		<custom-field action="translate">_wpweb_tb_post_title</custom-field>
+		<custom-field action="copy">_wpweb_tb_user_id</custom-field>
+		<custom-field action="copy">_wpweb_tb_custom_post_link</custom-field>
+		<custom-field action="translate">_wpweb_tb_post_desc</custom-field>
+		<custom-field action="copy">_wpweb_yt_user_id</custom-field>
+		<custom-field action="translate">_wpweb_yt_post_title</custom-field>
+		<custom-field action="copy">_wpweb_yt_post_image</custom-field>
+		<custom-field action="translate">_wpweb_yt_custom_status_msg</custom-field>
+		<custom-field action="copy">_wpweb_pin_user_id</custom-field>
+		<custom-field action="copy">_wpweb_pin_custom_post_link</custom-field>
+		<custom-field action="copy">_wpweb_pin_post_image</custom-field>
+		<custom-field action="translate">_wpweb_pin_custom_status_msg</custom-field>
+	</custom-fields>	
+</wpml-config>
